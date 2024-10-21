@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, sou o Iury!! 🐱‍💻🎸
+## Bem-vindo(a) ao meu perfil, sou o Iury!! 🎸
  <div>
    <a href="https://github.com/pelegrint">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pelegrint&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
